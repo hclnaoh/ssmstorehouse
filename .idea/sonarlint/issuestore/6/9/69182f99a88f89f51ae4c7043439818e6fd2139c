@@ -1,0 +1,86 @@
+
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÉóÂ”
+o
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+d	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùâ‡Ş
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(÷„¥úÿÿÿÿ
+i	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éàÎşÿÿÿÿÿ
+N	java:S106Ú"9Replace this use of System.out or System.err by a logger.(±²2
+i
+java:S1192m"NDefine a constant instead of duplicating this literal "huowubianhao" 17 times.(¼êÌ×ÿÿÿÿÿ
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ùâ‡Ş
+o
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+o
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉóÂ”
+]
+java:S1226="GIntroduce a new variable instead of reusing the parameter "huowuxinxi".(áåÀş
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âˆêøÿÿÿÿ
+^
+java:S1192p"HDefine a constant instead of duplicating this literal "kucun1" 16 times.(Î™ëØ
+o
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+]
+java:S1226P"GIntroduce a new variable instead of reusing the parameter "huowuxinxi".(áåÀş
+^
+java:S1192t"HDefine a constant instead of duplicating this literal "beizhu" 16 times.(ÿï¯
+f
+java:S1192>"KDefine a constant instead of duplicating this literal "huowuxinxi" 3 times.(á‘¬úÿÿÿÿ
+o
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(êŞœ
+n
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+]
+java:S1226I"GIntroduce a new variable instead of reusing the parameter "huowuxinxi".(áåÀş
+o
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+X
+java:S2259ì"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+V	java:S125["<This block of commented-out lines of code should be removed.(Æ…ÂÃùÿÿÿÿ
+m
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(èé¶°üÿÿÿÿ
+_
+java:S1192j"IDefine a constant instead of duplicating this literal "pageSize" 8 times.(ê´““
+o
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷„¥úÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(âˆêøÿÿÿÿ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(èöÓ¿øÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦•û ÿÿÿÿÿ
+Q	java:S1254"<This block of commented-out lines of code should be removed.(êŞœ
+]
+java:S1192q"HDefine a constant instead of duplicating this literal "kucun2" 16 times.(ÂÑ~
+k
+java:S1192n"PDefine a constant instead of duplicating this literal "huowumingcheng" 16 times.(Èşˆ•şÿÿÿÿ
+b
+java:S1192i"GDefine a constant instead of duplicating this literal "pageno" 8 times.(ü§ŸŸşÿÿÿÿ
+‰
+java:S1130("nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Œæ¿ûıÿÿÿÿ
+n
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(éàÎşÿÿÿÿÿ
+b
+java:S1192r"GDefine a constant instead of duplicating this literal "jiage" 16 times.(àû—îıÿÿÿÿ
+c
+java:S1192o"NDefine a constant instead of duplicating this literal "huowuleixing" 16 times.(Èón
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+c
+java:S1192/"HDefine a constant instead of duplicating this literal "Referer" 3 times.(•°Ñ¤ÿÿÿÿÿ
+P	java:S1251"<This block of commented-out lines of code should be removed.(“°îZ
+_
+java:S1192s"IDefine a constant instead of duplicating this literal "shiwutu" 16 times.(úØšÊ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Íöµÿÿÿÿÿ

@@ -1,0 +1,39 @@
+
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ
+e	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öËµ4
+o
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+f
+java:S1226<"KIntroduce a new variable instead of reusing the parameter "youqinglianjie".(ãÐ¯Æùÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(öËíÔ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+j
+java:S1192="ODefine a constant instead of duplicating this literal "youqinglianjie" 3 times.(Àôâýÿÿÿÿ
+f
+java:S1226H"KIntroduce a new variable instead of reusing the parameter "youqinglianjie".(ãÐ¯Æùÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¶ƒÀùÿÿÿÿ
+^
+java:S1192m"HDefine a constant instead of duplicating this literal "wangzhi" 4 times.(¡ž“ù
+c
+java:S1192."HDefine a constant instead of duplicating this literal "Referer" 3 times.(•°Ñ¤ÿÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Æ…ÂÃùÿÿÿÿ
+Q	java:S1253"<This block of commented-out lines of code should be removed.(öËíÔ
+f
+java:S1226O"KIntroduce a new variable instead of reusing the parameter "youqinglianjie".(ãÐ¯Æùÿÿÿÿ
+‰
+java:S1130("nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¼Èâþÿÿÿÿ
+e	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öËµ4
+h
+java:S1192l"RDefine a constant instead of duplicating this literal "wangzhanmingcheng" 4 times.(¨±É›
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+n
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4

@@ -1,0 +1,61 @@
+
+c
+java:S1226?"HIntroduce a new variable instead of reusing the parameter "yonghuzhuce".(ı­İŸÿÿÿÿÿ
+h
+java:S1192|"MDefine a constant instead of duplicating this literal "shenfenzheng" 4 times.(î‘µõûÿÿÿÿ
+^
+java:S12268"HIntroduce a new variable instead of reusing the parameter "yonghuzhuce".(¨Åµí
+V	java:S125a"<This block of commented-out lines of code should be removed.(Æ…ÂÃùÿÿÿÿ
+b
+java:S1192{"GDefine a constant instead of duplicating this literal "shouji" 4 times.(¢õ×æüÿÿÿÿ
+X
+java:S2259Í"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+c
+java:S1192."HDefine a constant instead of duplicating this literal "Referer" 3 times.(•°Ñ¤ÿÿÿÿÿ
+g
+java:S1192x"QDefine a constant instead of duplicating this literal "chushengnianyue2" 4 times.(Øï”ˆ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°„şüÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(¿ã‘Öûÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ıôãï
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ù×÷¬ûÿÿÿÿ
+a
+java:S1192s"KDefine a constant instead of duplicating this literal "yonghuming" 5 times.(Ï×
+„
+java:S1130("nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(áÎ¾
+l
+java:S1192w"QDefine a constant instead of duplicating this literal "chushengnianyue1" 4 times.(¥´îÏúÿÿÿÿ
+d
+java:S1192u"IDefine a constant instead of duplicating this literal "xingming" 4 times.(ÆŒÙÿÿÿÿÿ
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°„şüÿÿÿÿ
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ
+b
+java:S11929"LDefine a constant instead of duplicating this literal "yonghuzhuce" 4 times.(‰±£
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÌğËÉ
+^
+java:S1226V"HIntroduce a new variable instead of reusing the parameter "yonghuzhuce".(¨Åµí
+d
+java:S1192}"IDefine a constant instead of duplicating this literal "touxiang" 4 times.(—Áßßûÿÿÿÿ
+c
+java:S1192v"HDefine a constant instead of duplicating this literal "xingbie" 4 times.(Áçªíùÿÿÿÿ
+_
+java:S1192z"IDefine a constant instead of duplicating this literal "youxiang" 4 times.(˜Ãà­
+^
+java:S1226O"HIntroduce a new variable instead of reusing the parameter "yonghuzhuce".(¨Åµí
+a
+java:S1192~"FDefine a constant instead of duplicating this literal "dizhi" 4 times.(’Ú°ãûÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "beizhu" 4 times.(ÿï¯
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+n
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+m
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(êæÒöşÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+o
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4

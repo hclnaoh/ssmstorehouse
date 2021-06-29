@@ -1,0 +1,71 @@
+
+|
+java:S1488H"aImmediately return this expression instead of assigning it to the temporary variable "strtodate".(Û¥š«ùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÜìÒ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›÷¥§ùÿÿÿÿ
+?	java:S108¼")Either remove or fill this block of code.(”ı¾
+8
+java:S1116ß"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Y
+java:S2259¾"BA "NullPointerException" could be thrown; "date" is nullable here.(ğ±«é
+g
+java:S1192"LDefine a constant instead of duplicating this literal "yyyy-MM-dd" 10 times.(’á¨ãşÿÿÿÿ
+|
+java:S1488["aImmediately return this expression instead of assigning it to the temporary variable "strtodate".(Û¥š«ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›÷¥§ùÿÿÿÿ
+S
+java:S1854Ş"7Remove this useless assignment to local variable "sdf".(Ğ½Œñúÿÿÿÿ
+r
+java:S1488¾"[Immediately return this expression instead of assigning it to the temporary variable "day".(ğ±«é
+z
+java:S1488È"^Immediately return this expression instead of assigning it to the temporary variable "newday".(•ıçıÿÿÿÿ
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô†¨åÿÿÿÿÿ
+€
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "currentTime_2".(›÷¥§ùÿÿÿÿ
+x
+java:S1488N"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(¼ºÊÀ
+]
+java:S1126Ğ"AReplace this if-then-else statement by a single return statement.(´™ÿ§ÿÿÿÿÿ
+x
+java:S1488%"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¸âÔøÿÿÿÿ
+x
+java:S1488,"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+x
+java:S1488A"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+i
+java:S1871ş"MThis branch's code block is the same as the block for the branch on line 250.(È¬ï¢şÿÿÿÿ
+€
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "currentTime_2".(›÷¥§ùÿÿÿÿ
+x
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+K
+java:S1066„"/Merge this if statement with the enclosing one.(çÔÂ’üÿÿÿÿ
+:
+java:S2119Ò"Save and re-use this "Random".(÷¯‘øÿÿÿÿ
+8
+java:S1643×"Use a StringBuilder instead.(•ü™½øÿÿÿÿ
+x
+java:S14883"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+d	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À²ôğ
+y
+java:S1488`"cImmediately return this expression instead of assigning it to the temporary variable "currentTime".(ËäÒ
+o
+java:S1192"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 7 times.(–ä·ùÿÿÿÿ
+
+java:S1488g"fImmediately return this expression instead of assigning it to the temporary variable "date_3_hm_date".(Í¸âÔøÿÿÿÿ
+?	java:S108³")Either remove or fill this block of code.(”ı¾
+c
+java:S1871ƒ"MThis branch's code block is the same as the block for the branch on line 250.(õë¼j
+x
+java:S1488T"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(¼ºÊÀ
+[
+java:S2259¾"DA "NullPointerException" could be thrown; "mydate" is nullable here.(ğ±«é
+x
+java:S1488:"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+x
+java:S1488n"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë
+f	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö–¢Ç
+y
+java:S1488‡"bImmediately return this expression instead of assigning it to the temporary variable "dateString".(‚Ùµë

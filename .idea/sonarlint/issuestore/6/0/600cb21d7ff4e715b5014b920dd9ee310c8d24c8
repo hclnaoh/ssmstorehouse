@@ -1,0 +1,46 @@
+
+a
+java:S1192u"KDefine a constant instead of duplicating this literal "pinglunren" 4 times.(¬»Žö
+o
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+V	java:S125;"<This block of commented-out lines of code should be removed.(Àñ«ïùÿÿÿÿ
+Q	java:S125^"<This block of commented-out lines of code should be removed.(²æ†÷
+V	java:S125'"<This block of commented-out lines of code should be removed.(Þ¿«Ëþÿÿÿÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓˆŠúÿÿÿÿ
+_
+java:S1226K"DIntroduce a new variable instead of reusing the parameter "pinglun".(ú«­äûÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(ÍŸá±ýÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(´´Å™
+_
+java:S1192s"IDefine a constant instead of duplicating this literal "xinwenID" 4 times.(žìã¿
+c
+java:S1192*"HDefine a constant instead of duplicating this literal "pinglun" 4 times.(¨ž·ƒýÿÿÿÿ
+n
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìŽ÷ 
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†¬ª
+^
+java:S1192v"HDefine a constant instead of duplicating this literal "pingfen" 4 times.(ÍÞ•”
+_
+java:S1226D"DIntroduce a new variable instead of reusing the parameter "pinglun".(ú«­äûÿÿÿÿ
+_
+java:S1226R"DIntroduce a new variable instead of reusing the parameter "pinglun".(ú«­äûÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(ã×Šþÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+j
+java:S1192t"ODefine a constant instead of duplicating this literal "pinglunneirong" 4 times.(­êËÈÿÿÿÿÿ
+h
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†¼à®
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+V	java:S125g"<This block of commented-out lines of code should be removed.(ÍŸá±ýÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë

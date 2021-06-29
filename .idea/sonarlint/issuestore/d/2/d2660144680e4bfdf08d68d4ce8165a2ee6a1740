@@ -1,0 +1,9 @@
+
+?
+java:S1068")Remove this unused "start" private field.(û¤œç
+n
+java:S1450"XRemove the "totalPage" field and declare it as a local variable in the relevant methods.(«ÔšÓ
+C
+java:S1068"-Remove this unused "totalPage" private field.(«ÔšÓ
+‚
+java:S1845"gRename field "PAGESIZE" to prevent any misunderstanding/clash with field "pageSize" defined on line 19.(Ñ¢¹ÿÿÿÿÿ

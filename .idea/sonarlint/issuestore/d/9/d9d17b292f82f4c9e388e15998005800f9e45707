@@ -1,0 +1,29 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(Ø‰È·
+:	Web:S5256"%Add "<th>" headers to this "<table>".(Ø‰È·
+>	Web:S1827")Remove this deprecated "width" attribute.(Ø‰È·
+>	Web:S1827")Remove this deprecated "align" attribute.(Ø‰È·
+D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(Ø‰È·
+D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(Ø‰È·
+D	Web:S1827"/Remove this deprecated "bordercolor" attribute.(Ø‰È·
+C	Web:S1827")Remove this deprecated "width" attribute.(ƒıÂŸÿÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "height" attribute.(ƒıÂŸÿÿÿÿÿ
+C	Web:S1827")Remove this deprecated "width" attribute.(ƒıÂŸÿÿÿÿÿ
+>	Web:S1827")Remove this deprecated "align" attribute.(é¿¸œ
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(é¿¸œ
+C	Web:S1827")Remove this deprecated "width" attribute.(Øò°Èıÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "height" attribute.(Øò°Èıÿÿÿÿ
+C	Web:S1827")Remove this deprecated "width" attribute.(Øò°Èıÿÿÿÿ
+=	Web:S1827")Remove this deprecated "width" attribute.(ª©×
+>	Web:S1827"*Remove this deprecated "height" attribute.(ª©×
+=	Web:S1827")Remove this deprecated "width" attribute.(ª©×
+>	Web:S1827")Remove this deprecated "width" attribute.(†ÑŠ
+?	Web:S1827"*Remove this deprecated "height" attribute.(†ÑŠ
+>	Web:S1827")Remove this deprecated "width" attribute.(†ÑŠ
+C	Web:S1827")Remove this deprecated "width" attribute.(¿ÇÑÿÿÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "height" attribute.(¿ÇÑÿÿÿÿÿÿ
+C	Web:S1827")Remove this deprecated "width" attribute.(¿ÇÑÿÿÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "height" attribute.(¿ÇÑÿÿÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(¿ÇÑÿÿÿÿÿÿ

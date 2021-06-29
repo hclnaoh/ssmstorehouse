@@ -1,0 +1,189 @@
+
+F
+java:S3740Ô"/Provide the parametrized type for this generic.(ÿÎ™Ä
+F
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä
+N
+java:S1135æ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+u
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£Öé
+F
+java:S3740¡"/Provide the parametrized type for this generic.(½Õ«
+>
+java:S1659×""Declare "sub2" on a separate line.(îõ‡Êúÿÿÿÿ
+K
+java:S3740„"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ
+e
+java:S1104"OMake nmm a static final constant or non-public and provide accessors if needed.(›Ñ‡Æ
+K
+java:S3740ú"/Provide the parametrized type for this generic.(»Ä€ıÿÿÿÿ
+=
+java:S1659Ù"!Declare "end" on a separate line.(—…›úÿÿÿÿÿ
+c
+java:S2095Ê"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+]
+java:S11924"GDefine a constant instead of duplicating this literal " from " 4 times.(×Ëòù
+^
+java:S11924"HDefine a constant instead of duplicating this literal "select " 4 times.(×Ëòù
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ƒûÿÿÿÿ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(¥ÇÚİÿÿÿÿÿ
+W	java:S125‹"<This block of commented-out lines of code should be removed.(à’—­úÿÿÿÿ
+F
+java:S3740Å"/Provide the parametrized type for this generic.(Ø’‘¿
+c
+java:S2095Å"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+q
+java:S3923w"[Remove this conditional structure or edit its code blocks so that they're not all the same.(«ÿˆÎ
+[
+java:S1854Ø"?Remove this useless assignment to local variable "subLowcase1".(°üäÆûÿÿÿÿ
+R	java:S125ó"<This block of commented-out lines of code should be removed.(­ç†Œ
+K
+java:S3740­"/Provide the parametrized type for this generic.(„ƒûÿÿÿÿ
+K
+java:S3740Ç"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ
+v
+java:S1149†"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(å’÷Ã
+T
+java:S1854Ø"8Remove this useless assignment to local variable "sub1".(°üäÆûÿÿÿÿ
+c
+java:S2095Ú"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+i
+java:S1450"SRemove the "list" field and declare it as a local variable in the relevant methods.(ù¡á¯
+k
+java:S1192<"PDefine a constant instead of duplicating this literal "<option value='" 3 times.(ÿ´üÕûÿÿÿÿ
+\
+java:S1124Í"EReorder the modifiers to comply with the Java Language Specification.(“øÙò
+T
+java:S1117Ç"8Rename "list" which hides the field declared at line 19.(©¾ì×şÿÿÿÿ
+h
+java:S11924"RDefine a constant instead of duplicating this literal " order by id desc" 3 times.(×Ëòù
+K
+java:S3740„"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ù¡á¯
+K
+java:S3740­"/Provide the parametrized type for this generic.(„ƒûÿÿÿÿ
+F
+java:S3740£"/Provide the parametrized type for this generic.(¸Ä®ƒ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ıàòk
+c
+java:S2095¦"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+u
+java:S1149E"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£Öé
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(•¬ªĞ
+R
+java:S1117Ï"6Rename "rs" which hides the field declared at line 21.(íƒÁùÿÿÿÿ
+f
+java:S1192<"KDefine a constant instead of duplicating this literal "</option>
+" 3 times.(ÿ´üÕûÿÿÿÿ
+c
+java:S2095±"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+c
+java:S2095‡"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+v
+java:S1149ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£Öé
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(˜‰•ğıÿÿÿÿ
+[
+java:S1854Ø"?Remove this useless assignment to local variable "subLowcase2".(°üäÆûÿÿÿÿ
+b
+java:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+>
+java:S1068"(Remove this unused "date" private field.(ªĞ‰­
+K
+java:S3740ª"/Provide the parametrized type for this generic.(¥ÇÚİÿÿÿÿÿ
+E
+java:S1659×")Declare "subLowcase1" on a separate line.(îõ‡Êúÿÿÿÿ
+i	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–µÿÊıÿÿÿÿ
+v
+java:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£Öé
+F
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä
+i
+java:S1104"NMake rs a static final constant or non-public and provide accessors if needed.(û˜Î¬şÿÿÿÿ
+u
+java:S1149Y"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(£Öé
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(˜‰•ğıÿÿÿÿ
+c
+java:S2095Â"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+K
+java:S3740®"/Provide the parametrized type for this generic.(Ê¶¶Ïøÿÿÿÿ
+8
+java:S1643õ"Use a StringBuilder instead.(ÔØÊ¸øÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ıàòk
+F
+java:S3740Ô"/Provide the parametrized type for this generic.(ÿÎ™Ä
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(˜‰•ğıÿÿÿÿ
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ø’‘¿
+F
+java:S3740ş"/Provide the parametrized type for this generic.(‚ö¢ÿ
+v
+java:S1149ò"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(äÔ¦Ú
+d
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô˜²Òüÿÿÿÿ
+b
+java:S20958"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+N
+java:S1135¢"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô‚îŒ
+E
+java:S1659×")Declare "subLowcase2" on a separate line.(îõ‡Êúÿÿÿÿ
+e
+java:S1104"OMake nsa a static final constant or non-public and provide accessors if needed.(ÑïÑà
+{
+java:S1149ó"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–Ïì´øÿÿÿÿ
+R
+java:S1854"6Remove this useless assignment to local variable "id".(©Ø«øÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(˜‰•ğıÿÿÿÿ
+u
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê¶¶Ïøÿÿÿÿ
+T
+java:S1117„"8Rename "list" which hides the field declared at line 19.(©¾ì×şÿÿÿÿ
+u
+java:S1149ñ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€üÚU
+R
+java:S1117‹"6Rename "rs" which hides the field declared at line 21.(ÊõŞàşÿÿÿÿ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+b
+java:S2095a"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+b
+java:S2095u"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+F
+java:S3740¬"/Provide the parametrized type for this generic.(‚„šæ
+4
+java:S2119…"Save and re-use this "Random".(¼İÅf
+T
+java:S1117­"8Rename "list" which hides the field declared at line 19.(„ƒûÿÿÿÿ
+b
+java:S2095M"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+d
+java:S5361‰"HReplace this call to "replaceAll()" by a call to the "replace()" method.(÷ìüÿÿÿÿ
+c
+java:S3973¤"GUse indentation to denote the code conditionally executed by this "if".(÷î“ğúÿÿÿÿ
+a
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(ÔßüÚøÿÿÿÿ
+n
+java:S1104"SMake connect a static final constant or non-public and provide accessors if needed.(ìÄÙ’ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ãÿt
+;
+java:S2676Š"Use the original value instead.(İåÉÒşÿÿÿÿ
+`
+java:S2583Û"DChange this condition so that it does not always evaluate to "false"(ò–şÚÿÿÿÿÿ
+T
+java:S1854Ø"8Remove this useless assignment to local variable "sub2".(°üäÆûÿÿÿÿ
+C
+java:S1481"'Remove this unused "id" local variable.(©Ø«øÿÿÿÿ
+c
+java:S2095ñ"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+K
+java:S3740®"/Provide the parametrized type for this generic.(Ê¶¶Ïøÿÿÿÿ
+p
+java:S1488§"ZImmediately return this expression instead of assigning it to the temporary variable "tt".(ú¤ËB
+K
+java:S3740Ç"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ
+v
+java:S1488£"ZImmediately return this expression instead of assigning it to the temporary variable "tt".(ïø¾ÿÿÿÿÿ

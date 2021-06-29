@@ -1,0 +1,47 @@
+
+b
+java:S1192o"GDefine a constant instead of duplicating this literal "pageno" 3 times.(ü§ŸŸþÿÿÿÿ
+d
+java:S1192p"IDefine a constant instead of duplicating this literal "pageSize" 3 times.(„û¦îþÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(ÍŸá±ýÿÿÿÿ
+_
+java:S1192s"IDefine a constant instead of duplicating this literal "username" 6 times.(ÁçŽ°
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+V	java:S125g"<This block of commented-out lines of code should be removed.(ÍŸá±ýÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ
+n
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+_
+java:S1226K"IIntroduce a new variable instead of reusing the parameter "shoucangjilu".(ôï‹†
+Q	java:S1251"<This block of commented-out lines of code should be removed.(´´Å™
+V	java:S125^"<This block of commented-out lines of code should be removed.(Çã¸¥øÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(¸­£ùÿÿÿÿ
+o
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÒ«€þÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+_
+java:S1226D"IIntroduce a new variable instead of reusing the parameter "shoucangjilu".(ôï‹†
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+b
+java:S1192u"GDefine a constant instead of duplicating this literal "ziduan" 6 times.(œðÊ±úÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(àùàôùÿÿÿÿ
+@
+java:S1905")Remove this unnecessary cast to "String".(çÏßï
+W	java:S125 "<This block of commented-out lines of code should be removed.(ÍŸá±ýÿÿÿÿ
+c
+java:S1192*"MDefine a constant instead of duplicating this literal "shoucangjilu" 4 times.(‘†Šº
+Y
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë
+_
+java:S1226R"IIntroduce a new variable instead of reusing the parameter "shoucangjilu".(ôï‹†
+Q	java:S125"<This block of commented-out lines of code should be removed.(ìŽ÷ 
+V	java:S125'"<This block of commented-out lines of code should be removed.(Þ¿«Ëþÿÿÿÿ
+o
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4

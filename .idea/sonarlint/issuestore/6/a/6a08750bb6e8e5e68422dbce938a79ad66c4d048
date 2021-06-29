@@ -1,0 +1,37 @@
+
+n
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ–ÿÑùÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(º­¹Ïşÿÿÿÿ
+n
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ì¾4
+X
+java:S2259¤"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+V	java:S125;"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(–õßëûÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ê§ò­üÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(³’±¯
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(¥ª§
+d
+java:S1192f"IDefine a constant instead of duplicating this literal "username" 7 times.(ë“À´ÿÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(ú¿ûúÿÿÿÿ
+t
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ–ÿÑùÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(´´Å™
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(Úÿ¥ãüÿÿÿÿ
+V	java:S125~"<This block of commented-out lines of code should be removed.(–õßëûÿÿÿÿ
+o
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÚæˆ
+V	java:S125X"<This block of commented-out lines of code should be removed.(ÍŸá±ıÿÿÿÿ
+t
+java:S1192:"YDefine a constant instead of duplicating this literal "redirect:allusersList.do" 3 times.(·ŠûÏÿÿÿÿÿ
+`
+java:S1226C"EIntroduce a new variable instead of reusing the parameter "allusers".(Õ¦Óæúÿÿÿÿ
+Z
+java:S2441°">Make "Allusers" serializable or don't store it in the session.(“ó„¯üÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ß‘èÙıÿÿÿÿ
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š«×Ø
